@@ -15,5 +15,10 @@
 - 🤔 I’m looking for help with ML and DS
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dikshita-basu/)
 - ⚡ Fun fact: I whenever I am upset and have keen interest in fashion designing.
+- 📝[Resume](https://drive.google.com/file/d/1_jxuX06bGiDmyUBkoiY3SdKu-vFIER-u/view?usp=sharing)
 
-<img src = 
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></code>
