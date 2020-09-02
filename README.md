@@ -18,6 +18,8 @@
 - 📝[Resume](https://drive.google.com/file/d/1_jxuX06bGiDmyUBkoiY3SdKu-vFIER-u/view?usp=sharing)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyabose&layout=compact&hide=html&theme=radical" alt="hiyabose" />
+<br />
+<br />
 
 
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
