@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with ML and DS
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: LinkedIn[LinkedIn](https://www.linkedin.com/in/dikshita-basu/)
 - ⚡ Fun fact: I whenever I am upset and have keen interest in fashion designing
 -->
