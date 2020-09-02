@@ -1,4 +1,4 @@
-### Hola! I'm Dikshita Basu 👋
+<h1 align="center">Hola 👋, I'm Dikshita Basu</h1>
 
 <a href="https://www.linkedin.com/in/dikshitabasu/">
   <img align="left" alt="Dikshita LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -18,7 +18,7 @@
 - 📝[Resume](https://drive.google.com/file/d/1_jxuX06bGiDmyUBkoiY3SdKu-vFIER-u/view?usp=sharing)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyabose&layout=compact&hide=html&theme=radical" alt="hiyabose" />
-<br />
+
 
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
