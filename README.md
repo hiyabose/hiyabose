@@ -17,7 +17,7 @@
 - ⚡ Fun fact: I whenever I am upset and have keen interest in fashion designing.
 - 📝[Resume](https://drive.google.com/file/d/1_jxuX06bGiDmyUBkoiY3SdKu-vFIER-u/view?usp=sharing)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyabose&layout=compact&hide=html&theme=radical" alt="hiyabose" />
+
 <br />
 <br />
 
