@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with ML and DS
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dikshita-basu/)
-- ⚡ Fun fact: I whenever I am upset and have keen interest in fashion designing.
+- ⚡ Fun fact: I draw whenever I am upset and have keen interest in fashion designing.
 - 📝[Resume](https://drive.google.com/file/d/1_jxuX06bGiDmyUBkoiY3SdKu-vFIER-u/view?usp=sharing)
 
 
