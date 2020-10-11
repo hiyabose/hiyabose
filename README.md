@@ -29,7 +29,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyabose&layout=compact&hide=html&theme=radical" alt="hiyabose" />
 
-<p align = "center">
+
+
+<p align = "left">
   <a href="https://github.com/hiyabose">
     <img src = "https://github-readme-stats.vercel.app/api?username=hiyabose&show_icons=true&theme=radical&line_height=27&include_all_commits=false">
   </a>
